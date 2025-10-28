@@ -138,7 +138,3 @@ npm run build
 3. 提交更改
 4. 推送到分支
 5. 创建Pull Request
-
-## 📄 许可证
-
-MIT License
